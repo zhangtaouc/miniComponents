@@ -1,0 +1,25 @@
+{
+  "name": "zt-minicomonents",
+  "version": "0.0.1",
+  "description": "zt小程序组件库",
+  "main": "index.js",
+  "miniprogram": "src",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangtaouc/miniComonents.git"
+  },
+  "keywords": [
+    "微信小程序",
+    "zt",
+    "miniprogram"
+  ],
+  "author": "zhangtaouc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangtaouc/miniComonents/issues"
+  },
+  "homepage": "https://github.com/zhangtaouc/miniComonents#readme"
+}
