@@ -1,7 +1,1 @@
-<!--index.wxml-->
-<navigation-bar title="Weixin" back="{{false}}" color="black" background="#FFF"></navigation-bar>
-<scroll-view class="scrollarea" scroll-y type="list">
-  <view class="container">
-    测试小老涛
-  </view>
-</scroll-view>
+<zt-test />
