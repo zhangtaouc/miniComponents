@@ -1,6 +1,6 @@
 {
 	"name": "zt-minicomonent",
-	"version": "0.0.5",
+	"version": "0.0.6",
 	"description": "zt小程序组件库",
 	"main": "index.js",
 	"miniprogram": "packages",
