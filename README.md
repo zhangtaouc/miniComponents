@@ -54,7 +54,7 @@ package.json
 }
 ```
 
-### 4、使用
+### 4、组件使用
 
 ```json
 {
@@ -138,3 +138,11 @@ package.json
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "prettier.documentSelectors": ["**/*.wxml", "**/*.wxss", "**/*.wxs"]
 ```
+
+### 6、工具类使用
+
+```javascript
+const method = require('zt-minicomonent')
+method.xxx
+```
+
