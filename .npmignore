@@ -1,7 +1,0 @@
-components/
-pages/
-app.js
-app.json
-app.wxss
-package.json
-# 或者把package.json放文件夹下
