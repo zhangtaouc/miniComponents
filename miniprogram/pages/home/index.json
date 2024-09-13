@@ -1,3 +1,5 @@
 {
-  "usingComponents": {}
+	"usingComponents": {
+		"zt": "zt-mini/UI/zt-test"
+	}
 }

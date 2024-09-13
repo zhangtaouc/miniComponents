@@ -22,8 +22,8 @@ package.json
 	"version": "0.0.2",
 	"description": "zt小程序组件库",
 	"main": "index.js", // 入口，一般小程序没啥用
-	"miniprogram": "miniprogram/packages", // 打包入口
-	"files ": ["packages"], // 要上传的文件
+	"miniprogram": "miniprogram/packages", // 打包入口,npm 构建的时候就是它详见https://developers.weixin.qq.com/miniprogram/dev/devtools/npm.html
+	"files ": ["packages"], // 要上传的文件目录
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},

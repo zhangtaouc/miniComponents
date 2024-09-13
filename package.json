@@ -1,11 +1,11 @@
 {
-	"name": "zt-minicomponents",
-	"version": "0.0.2-test",
+	"name": "zt-mini",
+	"version": "0.0.1-test",
 	"description": "zhangtaouc微信小程序小程序组件库",
 	"main": "index.js",
 	"miniprogram": "miniprogram/packages",
 	"files": [
-		"packages"
+		"miniprogram/packages"
 	],
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
@@ -26,6 +26,6 @@
 	},
 	"homepage": "https://github.com/zhangtaouc/miniComponents#readme",
 	"dependencies": {
-		"zt-minicomponents": "0.0.1-test"
+		"zt-mini": "^0.0.1-test"
 	}
 }
