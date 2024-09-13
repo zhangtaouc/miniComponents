@@ -24,7 +24,7 @@ package.json
 	"version": "0.0.2",
 	"description": "zt小程序组件库",
 	"main": "index.js", // 入口，一般小程序没啥用
-	"miniprogram": "packages", // 打包入口
+	"miniprogram": "miniprogram/packages", // 打包入口
 	"files ": ["packages"], // 要上传的文件
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
