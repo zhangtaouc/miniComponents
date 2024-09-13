@@ -3,7 +3,7 @@
 	"version": "0.0.2-test",
 	"description": "zhangtaouc微信小程序小程序组件库",
 	"main": "index.js",
-	"miniprogram": "packages",
+	"miniprogram": "miniprogram/packages",
 	"files": [
 		"packages"
 	],
